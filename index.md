@@ -5,7 +5,7 @@ menutitle: Home
 menuorder: 1
 ---
 
-This is a paragraph! This is a paragraph. This is a paragraph! This is a paragraph. This is a paragraph! This is a paragraph. This is a paragraph! This is a paragraph. This is a paragraph! This is a paragraph.
+This is a paragraph! 
 
 ## Current Interests and Projects:
 
